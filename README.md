@@ -30,7 +30,7 @@ I am currently exploring the vast realm of data analytics and seeking opportunit
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Dianjennifer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dianjennifer&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>### Hi there 👋
+<a href="http://www.github.com/Dianjennifer"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dianjennifer&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!--
 **Dianjennifer/Dianjennifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
