@@ -1,4 +1,4 @@
-Hi 👋 My name is Diana Njoki
+Hi 👋 My name is Diana Jennifer Njoki
 ============================
 
 DATA ANALYST
